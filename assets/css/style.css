@@ -1,0 +1,45 @@
+.btn {
+    padding: 15px;
+    transition: all 0.4s ease;
+    font-weight: 800;
+    border-radius: 0;
+}
+
+.btn-brand {
+    background-color: var(--brand);
+}
+
+.btn-brand:hover {
+    background-color: transparent;
+    color: var(--brand);
+    border-color: var(--brand);
+}
+
+.icon-box-img {
+    width: 40%;
+}
+
+.btn-outline-brand {
+    background-color: transparent;
+    color: var(--brand);
+    border-color: var(--brand);
+}
+
+.btn-outline-brand:hover {
+    background-color: var(--brand);
+    color: var(--bg1);
+}
+
+.card {
+    transition: background-color 0.3s, color o.3s;
+}
+
+.card:hover {
+    background-color: var(--bg1);
+}
+
+.card:hover .card-title,
+.card:hover .card-text,
+.card:hover .btn{
+    color: #FFF;
+}
