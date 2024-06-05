@@ -1,3 +1,4 @@
+/* cheng */
 :root {
     --bg1: #30833ed2;
     --bg2: rgb(44,42,42);
@@ -61,4 +62,9 @@
 .card:hover .card-text,
 .card:hover .btn {
     color: #fff;
+}
+
+/* justine */
+#about {
+    background-color: rgb(158, 131, 143);
 }
