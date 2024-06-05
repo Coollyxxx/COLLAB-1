@@ -1,37 +1,56 @@
+:root {
+    --bg1: #30833ed2;
+    --bg2: rgb(44,42,42);
+    --body: rgb(95,86,86);
+    --brand: #e7a128;
+    --white: rgb(156,154,154);
+    --p: rgb(161,150,150);
+}
+
+#services {
+    background-color: #178352d2;
+}
+
 .btn {
     padding: 15px;
     transition: all 0.4s ease;
-    font-weight: 800;
-    border-radius: 0;
+    font-weight: 600;
+    border-radius: 10px;
 }
 
 .btn-brand {
     background-color: var(--brand);
+    border: none;
 }
 
 .btn-brand:hover {
-    background-color: transparent;
-    color: var(--brand);
-    border-color: var(--brand);
+    background-color: var(--brand);
+    color: var(--bg1);
 }
 
 .icon-box-img {
-    width: 40%;
+    width: 50%;
+    border-radius: 50%;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
 }
 
 .btn-outline-brand {
     background-color: transparent;
     color: var(--brand);
-    border-color: var(--brand);
+    border: 2px solid #000 !important;
 }
 
 .btn-outline-brand:hover {
     background-color: var(--brand);
-    color: var(--bg1);
+    color: #fff;
+    border-color: var(--brand);
 }
 
 .card {
-    transition: background-color 0.3s, color o.3s;
+    transition: background-color 0.3s, color 0.3s;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
 }
 
 .card:hover {
@@ -40,6 +59,6 @@
 
 .card:hover .card-title,
 .card:hover .card-text,
-.card:hover .btn{
-    color: #FFF;
+.card:hover .btn {
+    color: #fff;
 }
