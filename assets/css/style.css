@@ -24,7 +24,7 @@ section {
 #banner {
     min-height: 100vh;
     background: linear-gradient( to right, hsla(0, 2%, 17%, 0.856), rgba(44, 42, 42, 0.315)),
-    url('https://wallpaper.forfun.com/fetch/b8/b8c08fed28c719a3ba92fb0de8cda907.jpeg?download=animal-dragonfly-blue-insect-308946.jpeg');
+    url('https://img.freepik.com/free-photo/fresh-coffee-steams-wooden-table-close-up-generative-ai_188544-8923.jpg?t=st=1717991616~exp=1717995216~hmac=c6c13decd03b92b53c60538a4261ccd80fe666e9a1feb006f3e38adbece2ebb0&w=1380');
     height: 100vh;
     background-size: cover;
 }
@@ -85,7 +85,7 @@ section {
 }
 
 #banner {
-    background:url(https://img.freepik.com/free-photo/small-water-drops-leaf_23-2147811164.jpg?t=st=1714618098~exp=1714621698~hmac=4d342d28cbb9991b251b11dc0c0c284e4f8405eb23a2f6005da02069b1562b9a&w=1380);
+    background:url(https://img.freepik.com/free-photo/fresh-coffee-steams-wooden-table-close-up-generative-ai_188544-8923.jpg?t=st=1717991616~exp=1717995216~hmac=c6c13decd03b92b53c60538a4261ccd80fe666e9a1feb006f3e38adbece2ebb0&w=1380);
     height: 100vh; 
     background-size: cover;  
 }
@@ -158,7 +158,7 @@ section {
     /* parallax effect*/
     background-attachment: fixed;
     /*parallax effect / to remove to effect set to normal*/
-    background-image: url(https://img.freepik.com/free-photo/small-water-drops-leaf_23-2147811164.jpg?t=st=1714618098~exp=1714621698~hmac=4d342d28cbb9991b251b11dc0c0c284e4f8405eb23a2f6005da02069b1562b9a&w=1380);
+    background-image: url(https://img.freepik.com/free-photo/fresh-coffee-steams-wooden-table-close-up-generative-ai_188544-8923.jpg?t=st=1717991616~exp=1717995216~hmac=c6c13decd03b92b53c60538a4261ccd80fe666e9a1feb006f3e38adbece2ebb0&w=1380);
     min-height: 70vh;
 }
 #about {
